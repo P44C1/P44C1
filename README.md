@@ -18,4 +18,9 @@
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
+## Languages:
+- Italian
+- Portuguese
+- English
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0008ff&height=120&section=footer"/>
