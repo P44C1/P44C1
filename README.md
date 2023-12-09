@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0008ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0008ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pietro+Catapano;Better+known+as+P44C+in+Web;I'm+25+years+old;I+Graduated+Analysis+and+Systems+Development;and+Economy+&+Commerce;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0008ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pietro+Catapano;Better+known+as+P44C+in+Web;I'm+25+years+old;I+Graduated+Analysis+and+Systems+Development;and+Economy+and+Commerce;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 # 💻 Tech Stack:
 
